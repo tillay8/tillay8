@@ -1,13 +1,3 @@
-am tilley
+am tilley. am not communis. i make code. i use qubesos and endeavour. contact me on discord @tillay8. i like girls und panzer anime. wayy too much. i like encryption.
 
-am not communist
-
-i make code
-
-i use qubesos
-
-contact me on discord @tillay8
-
-i like girls und panzer anime
-
-i like encryption
+working on zsh-wrapped rn
