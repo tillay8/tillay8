@@ -4,4 +4,4 @@ working on zsh-wrapped rn
 
 [Top Langs]: https://github-readme-stats.vercel.app/api/top-langs/?username=tillay8&langs_count=10&layout=compact&theme=catppuccin_mocha&hide_border=true&card_width=445
 
-<img src="https://profile-counter.glitch.me/K1ngw1ng/count.svg" />
+<img src="https://profile-counter.glitch.me/tillay8/count.svg" />
