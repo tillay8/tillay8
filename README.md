@@ -5,4 +5,5 @@ working on zsh-wrapped rn
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tillay8&layout=compact&theme=transparent)
 
 Visitor count:
+
 <img src="https://profile-counter.glitch.me/tillay8/count.svg" />
