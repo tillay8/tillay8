@@ -15,7 +15,7 @@ I speak German and English.
          width="32" height="32" alt="Tilley Maze Bot" />
   </a>
 
-Working on $$\textcolor{#AA759F}{\texttt{ZSH Wrapped}}$$ <a href="https:/github.com/tillay8/zsh-wrapped" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/b996f224-464e-4734-8068-0b215c95c915" height="18" width="96" alt="ZSH Wrapped" />
+Working on $$\textcolor{#AA759F}{\texttt{ZSH Wrapped}}$$ <a href="https://github.com/tillay8/zsh-wrapped" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/b996f224-464e-4734-8068-0b215c95c915" height="18" width="96" alt="ZSH Wrapped" />
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tillay8&layout=compact&theme=transparent)
 
