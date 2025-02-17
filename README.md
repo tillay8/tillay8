@@ -14,6 +14,6 @@ Visitor count:
 
 Contact me on discord @tillay8
 
-![maho from girls und panzer](https://media.discordapp.net/attachments/1157073804028280947/1337643408629567549/image.png?ex=67a8d9c0&is=67a78840&hm=c865a5894e10c17fca89636bed8d017862dc481d11f3944731323871413002b8&=&format=webp&quality=lossless&width=475&height=373)
+![maho from girls und panzer](https://github.com/user-attachments/assets/04809080-3517-4832-8ed8-f191901d06d0)
 
 I am probably changing this account's name to tillay when it becomes available
