@@ -9,13 +9,10 @@ Girls und Panzer is my favorite anime. My favorite type of code is encryption. E
 
 I speak German and English.
 
-  <span>Check out my Maze making Discord bot!</span>
-  <a href="https://discord.com/oauth2/authorize?client_id=1333247177606299661" target="_blank" rel="noreferrer">
-    <img src="https://cdn.discordapp.com/app-icons/1333247177606299661/ac3f6739661fd4d7998bb759fd585735.png?size=256" 
-         width="32" height="32" alt="Tilley Maze Bot" />
-  </a>
-
-Working on $$\textcolor{#AA759F}{\texttt{ZSH Wrapped}}$$ <a href="https://github.com/tillay8/zsh-wrapped" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/b996f224-464e-4734-8068-0b215c95c915" height="18" width="96" alt="ZSH Wrapped" />
+Check out my a-Maze-ing Discord bots!
+<a href="https://discord.com/oauth2/authorize?client_id=1333247177606299661" target="_blank" rel="noreferrer"><img src="https://cdn.discordapp.com/app-icons/1333247177606299661/ac3f6739661fd4d7998bb759fd585735.png" width="32" height="32" alt="Tilley Maze Bot" /></a>  <a href="https://discord.com/oauth2/authorize?client_id=1335044960898252830" target="_blank" rel="noreferrer"><img src="https://cdn.discordapp.com/app-icons/1335044960898252830/1d51a3dbd58233e2576de04eb4a017a1.png" width="32" height="32" alt="Sense's Maze Solver" /></a>
+  
+Working on $$\textcolor{#AA759F}{\texttt{ZSH Wrapped}}$$ <a href="https://github.com/tillay8/zsh-wrapped" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/b996f224-464e-4734-8068-0b215c95c915" height="18" width="48" alt="ZSH Wrapped" />
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tillay8&layout=compact&theme=transparent)
 
@@ -23,7 +20,9 @@ Visitor count:
 
 ![visitor count](https://profile-counter.glitch.me/tillay8/count.svg)
 
-Contact me on discord [@tillay8](https://discord.com/users/1239747535120236616)
+Contact me on discord:
+
+<a href="https://discord.com/users/1239747535120236616" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/087beb45-08d5-43be-a668-480e0ed9dc9a" height="22" alt="Tillay8"/></a>
 
 ![maho from girls und panzer](https://github.com/user-attachments/assets/04809080-3517-4832-8ed8-f191901d06d0)
 
