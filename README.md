@@ -22,6 +22,8 @@ Visitor count:
 
 Contact me on discord:
 
+<a href="https://discord.com/users/1239747535120236616" target="_blank" rel="noreferrer"><img src="https://discord-readme-badge.vercel.app/api?id=1239747535120236616" height="64" alt="Tillay8" /></a>
+
 <a href="https://discord.com/users/1239747535120236616" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/087beb45-08d5-43be-a668-480e0ed9dc9a" height="22" alt="Tillay8"/></a>
 
 ![maho from girls und panzer](https://github.com/user-attachments/assets/04809080-3517-4832-8ed8-f191901d06d0)
