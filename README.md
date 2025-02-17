@@ -12,7 +12,7 @@ Visitor count:
 
 ![visitor count](https://profile-counter.glitch.me/tillay8/count.svg)
 
-Contact me on discord @tillay8
+Contact me on discord [@tillay8](https://discord.com/users/1239747535120236616)
 
 ![maho from girls und panzer](https://github.com/user-attachments/assets/04809080-3517-4832-8ed8-f191901d06d0)
 
