@@ -26,4 +26,4 @@ Visitor count:
 
 My cat figgie:
 
-<img src="https://github.com/user-attachments/assets/72715955-f7a5-43d8-8d81-d07cadfcc8df" alt="Figgie" width="400"/>ssh -p 440 -i ~/.ssh/deb_key tilley@73.229.135.222
+<img src="https://github.com/user-attachments/assets/72715955-f7a5-43d8-8d81-d07cadfcc8df" alt="Figgie" width="400"/>
