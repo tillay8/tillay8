@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/6d5cee6e-d7d8-4c3c-b7cb-7e1fe61f4f4b)## I am tilley. 
+## I am tilley. 
 
 i make code. 
 
