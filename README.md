@@ -9,6 +9,10 @@ Girls und Panzer is my favorite anime. My favorite type of code is encryption. E
 
 I speak German and English.
 
+Contact me on discord:
+
+<a href="https://discord.com/users/1239747535120236616" target="_blank" rel="noreferrer"><img src="https://cdn.discordapp.com/avatars/1239747535120236616/10c1c352bb1dd75389c41bd3687891b9.webp" height="26" alt="tillay8"/></a><a href="https://discord.com/users/1239747535120236616" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/f01dc5a3-5dcd-4b74-8741-497711f45ed0" height="26" alt="tillay8"/></a>
+
 Check out these a-Maze-ing Discord bots!
 <a href="https://discord.com/oauth2/authorize?client_id=1333247177606299661" target="_blank" rel="noreferrer"><img src="https://cdn.discordapp.com/app-icons/1333247177606299661/ac3f6739661fd4d7998bb759fd585735.png" width="32" height="32" alt="Tilley Maze Bot" /></a>  <a href="https://discord.com/oauth2/authorize?client_id=1335044960898252830" target="_blank" rel="noreferrer"><img src="https://cdn.discordapp.com/app-icons/1335044960898252830/1d51a3dbd58233e2576de04eb4a017a1.png" width="32" height="32" alt="Sense's Maze Solver" /></a>
   
@@ -20,8 +24,6 @@ Visitor count:
 
 ![visitor count](https://profile-counter.glitch.me/tillay8/count.svg)
 
-Contact me on discord:
+My cat figgie:
 
-<a href="https://discord.com/users/1239747535120236616" target="_blank" rel="noreferrer"><img src="https://cdn.discordapp.com/avatars/1239747535120236616/10c1c352bb1dd75389c41bd3687891b9.webp" height="22" alt="tillay8"/></a><a href="https://discord.com/users/1239747535120236616" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/f01dc5a3-5dcd-4b74-8741-497711f45ed0" height="22" alt="tillay8"/></a>
-
-I am probably changing this account's name to tillay when it becomes available
+<img src="https://github.com/user-attachments/assets/72715955-f7a5-43d8-8d81-d07cadfcc8df" alt="Figgie" width="400"/>ssh -p 440 -i ~/.ssh/deb_key tilley@73.229.135.222
