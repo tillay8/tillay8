@@ -24,6 +24,4 @@ Contact me on discord:
 
 <a href="https://discord.com/users/1239747535120236616" target="_blank" rel="noreferrer"><img src="https://cdn.discordapp.com/avatars/1239747535120236616/10c1c352bb1dd75389c41bd3687891b9.webp" height="22" alt="tillay8"/></a><a href="https://discord.com/users/1239747535120236616" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/f01dc5a3-5dcd-4b74-8741-497711f45ed0" height="22" alt="tillay8"/></a>
 
-![maho from girls und panzer](https://github.com/user-attachments/assets/04809080-3517-4832-8ed8-f191901d06d0)
-
 I am probably changing this account's name to tillay when it becomes available
