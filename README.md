@@ -3,7 +3,7 @@
 i make code. 
 
 I daily drive 
-<a href="https://www.qubes-os.org/" target="_blank" rel="noreferrer"><img src="http://www.qubes-os.org/attachment/icons/512x512/apps/qubes-logo-icon.png" width="18" height="18" alt="QubesOS"/></a> and <a href="https://endeavouros.com/" target="_blank" rel="noreferrer"><img src="https://endeavouros.com/wp-content/uploads/2021/04/eos-icon.png" width="18" height="18" alt="EndeavourOS"/></a>. 
+<a href="https://www.qubes-os.org/" target="_blank" rel="noreferrer"><img src="http://www.qubes-os.org/attachment/icons/512x512/apps/qubes-logo-icon.png" width="18" height="18" alt="QubesOS"/></a> and <a href="https://garudalinux.org/" target="_blank" rel="noreferrer"><img src="https://www.nesabamedia.com/wp-content/uploads/2022/11/Garuda-Linux-Logo-1.png" width="18" height="18" alt="Garuda Linux"/></a>. 
 
 Girls und Panzer is my favorite anime. My favorite type of code is encryption. Encryption algorithms are cool.
 
