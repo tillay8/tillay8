@@ -11,7 +11,7 @@ I speak German and English.
 
 Contact me on discord:
 
-<a href="https://discord.com/users/1239747535120236616" target="_blank" rel="noreferrer"><img src="https://cdn.discordapp.com/avatars/1239747535120236616/10c1c352bb1dd75389c41bd3687891b9.webp" height="26" alt="tillay8"/></a><a href="https://discord.com/users/1239747535120236616" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/f01dc5a3-5dcd-4b74-8741-497711f45ed0" height="26" alt="tillay8"/></a>
+<a href="https://discord.com/users/1239747535120236616" target="_blank" rel="noreferrer"><img src="https://cdn.discordapp.com/avatars/1239747535120236616/df9d110fa7a3e5f4d3a947088d5d8094" height="26" alt="tillay8"/></a><a href="https://discord.com/users/1239747535120236616" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/f01dc5a3-5dcd-4b74-8741-497711f45ed0" height="26" alt="tillay8"/></a>
 
 ## projects
 
@@ -20,9 +20,12 @@ Check out these a-Maze-ing Discord bots!
   
 Working on ZSH Wrapped <a href="https://github.com/tillay8/zsh-wrapped" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/b996f224-464e-4734-8068-0b215c95c915" height="18" width="48" alt="ZSH Wrapped" />
 
-Check out my encryption website!
+Check out my website!
 
-<a href="https://tillay8.github.io" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/163076c1-29e9-4828-949f-e766a1241f14" height="200" alt="tillay8.github.io" />
+https://tilley.lol
+
+<a href="https://tilley.lol" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/0d3ecf3b-f802-4137-860a-c0512d2105ac" height="400" alt="tillay8.github.io" />
+
 ## Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tillay8&layout=compact&theme=transparent)
 
