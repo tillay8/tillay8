@@ -27,7 +27,7 @@ https://tilley.lol
 <a href="https://tilley.lol" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/0d3ecf3b-f802-4137-860a-c0512d2105ac" height="400" alt="tillay8.github.io" />
 
 ## Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tillay8&layout=compact&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tillay&layout=compact&theme=transparent)
 
 Visitor count:
 
